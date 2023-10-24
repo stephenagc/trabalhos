@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(rgb(250, 119, 119),white, white, rgb(208, 208, 255));
+    height: 73vh;
+}
+
+section{
+    text-align: center;
+    margin-top: 200px;
+    font-size: x-large;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+button{
+    font-size: 20px;
+}
+
+div{
+    display:grid;
+}
+
+.botao1, .botao2{
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 20px;
+    font-family: 'Julius Sans One', sans-serif;
+}
+.numero{
+    width: 200px;
+    height: 30px;
+    margin-left: 520px;
+}

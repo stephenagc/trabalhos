@@ -1,0 +1,22 @@
+section{
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 20px;
+}
+
+.butao, .texto{
+    font-size: 20px;
+}
+
+.lista{
+    font-size: 30px;
+}
+
+
+
+body{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: url('assets/68c9f9add88f0539db6c17f656559d11.jpg');
+    background-size: cover;
+}
