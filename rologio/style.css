@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: 'Nosifer', sans-serif;
+    background-color: #f4f4f4;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: url('assets/wp10104404_\(1\)-transformed\ \(1\).jpg');
+    background-size: cover;
+  }
+  
+  .clock {
+    text-align: center;
+  }
+  
+  #clockDisplay {
+    font-size: 3em;
+    color: #ff0000;
+  }
+  
